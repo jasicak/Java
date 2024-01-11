@@ -1,0 +1,9 @@
+public class Helloworld {
+	public static void main(String args[]) {
+		//if u use 'println' outcome will be printed in next line
+// if u use 'print' output will be printed in the same line.
+		System.out.println("Hello World!"); 
+		System.out.print("Hello World!"); 
+		System.out.println("Hello World!"); 
+	}
+}
