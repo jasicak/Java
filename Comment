@@ -1,0 +1,16 @@
+public class Helloworld{
+    public static void main(String args[]){
+
+// This is a comment
+// Use '//' for writing a comment
+// a comment makes your code more understandable as u describe it in ur own words
+// any text after double slash will not be executed
+
+// for multi line comments use /* */
+// for Eg. 
+
+        System.out.println ("Hello World");
+      /*  System.out.println ("Hello ");
+        System.out.println ("World");  */
+    }
+}
