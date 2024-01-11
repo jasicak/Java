@@ -1,0 +1,8 @@
+public class Printingnumbers{                    //Before executing the code, save the file with the same name as the class i.e. Printingnumbers in this case  
+    public static void main(String args[]){      // For saving a java file add  '.java '  Eg. Printingnumbers.java
+        System.out.println(3);
+        System.out.println(3+4);
+        System.out.println(2*3);
+
+    }
+}
