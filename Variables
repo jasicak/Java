@@ -1,0 +1,6 @@
+/* There are various strings that stores variables like:
+1) String- that stores text like "Java".
+2) int- that stores number like "4".
+3) float- stores floating point numbers or decimals like "3.14".
+4) char- Stores single characters like "A".
+5) boolean- stores "True" or "False". */
